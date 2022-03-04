@@ -83,8 +83,7 @@ Command Prompt ---->   ipconfig/all   ---->     IPv4
  
  
  
- LAN
- Ethernet Cable(Cat6)
+
  
  
  

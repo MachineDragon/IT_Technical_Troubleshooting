@@ -89,21 +89,6 @@ Command Prompt ---->   ipconfig/all   ---->     IPv4
  
  
  
- Domain
- Group of users and computers connected to a network(HHS)
- To add users to Domain -> credentials added to domain within active directory
- 
- DNS(Domain Name Service)
- Interpret Domain Names to Numeric IP Address
- 
- 
- 
- VPN
- Secure way to connect remotely to your organizations network
- 
- 
- 
- 
  Printer
  -------------------------------------------------------------------------------------------
  *Connecting Printers
@@ -112,7 +97,9 @@ Connect to printer by i.p. address
 The IP address should be on the printers lcd screen,  
 
 On the bottom left of your screen where it says "Type here to search" type printers & scanners 
+
 click add a printer or scanner
+
 printer on network should show up automatically 
              or manual
 The printer that I want isn't listed

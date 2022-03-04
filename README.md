@@ -30,22 +30,36 @@ Uninstall and Reinstall the Software
 
 Web Browser Issues
 -----------------------------------------------------------------------------
-Clear Cache and Cookies
+*Clear Cache and Cookies
 
 In Chrome
-    At the top right, click 
+    At the top right, click the 3 dots
     ![image](https://user-images.githubusercontent.com/58194115/156818251-bab29b2c-ed1b-48cc-a6f6-34987c39d68f.png)
 
     
-    Click More tools and then Clear browsing data.
+    Click More tools and then Clear browsing data
     
-    At the top, choose a time range. To delete everything, select All time.
+    At the top, choose a time range. To delete everything, select All time
     
-    Next to "Cookies and other site data" and "Cached images and files," check the boxes.
+    Next to "Cookies and other site data" and "Cached images and files," check the boxes
     
-    Click Clear data.
+    Click Clear data
+    
+    
+    
+    
+    
+  Website Shortcut on Desktop
+  --------------------------------------------------------------------------------
+  
+  In Chrome 
+  
+ At the top right, click the 3 dots
+    ![image](https://user-images.githubusercontent.com/58194115/156818251-bab29b2c-ed1b-48cc-a6f6-34987c39d68f.png)
+    
+Click More tools and then Clear browsing data
 
-
+Click Create Shortcut
 
 
 

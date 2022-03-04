@@ -182,7 +182,8 @@ Audio Issues
 ----------------------------------------------------------------------------------------------
 On the bottom right click on the sound icon
 select where you want sound to come out
- 
+ ![image](https://user-images.githubusercontent.com/58194115/156808200-82f3edc5-14cb-4e23-b76c-f2bcb9dea2bc.png)
+
  
  
  

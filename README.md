@@ -4,6 +4,7 @@ RESTARTING COMPUTER OR SWITCHING WEB BROWSERS IS THE GREATEST FIX
 Wifi Issues
 ----------------------------------------------------------------------------------
 Restart PC
+                             
                              OR
 
 Disable then Re-enabled ethernet adapter in device manager

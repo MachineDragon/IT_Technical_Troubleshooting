@@ -26,6 +26,24 @@ Uninstall and Reinstall the Software
 
 
 
+
+
+Web Browser Issues
+-----------------------------------------------------------------------------
+Clear Cache and Cookies
+
+In Chrome
+    At the top right, click More More.
+    Click More tools and then Clear browsing data.
+    At the top, choose a time range. To delete everything, select All time.
+    Next to "Cookies and other site data" and "Cached images and files," check the boxes.
+    Click Clear data.
+
+
+
+
+
+
 PC Running Slow
 --------------------------------------------------------------------------------
 Run Windows Updates 

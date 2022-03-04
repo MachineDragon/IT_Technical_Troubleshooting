@@ -197,4 +197,30 @@ then scroll down to web browser,
 click it and then choose edge or chrome
 
 Once that is done, close out that window and you’re good
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software
+-------------------------------------------------------------------------------------
+
+Greenshot - for screenshotting
+Microsoft Teams - for communicating
+Dropbox - for sharing files
+
+
+
  

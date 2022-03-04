@@ -152,7 +152,7 @@ Go to the magnifying glass on the bottom left corner of your desktop
 
 where it says "Type here to search"
 
-type in \\sharedfoldername and hit enter
+type in  \\sharedfoldername and hit enter
 
 All of the Shared Folders will appear in alphabetical order
 

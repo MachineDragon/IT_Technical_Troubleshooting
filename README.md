@@ -62,6 +62,15 @@ Click More tools and then Clear browsing data
 Click Create Shortcut
 
 
+No DP Signal
+-----------------------------------------------------------------------------
+Make sure PC is powered on and make sure vga/hdmi cable is connected
+
+                           OR
+                           
+                           
+ Unplug and Re-plug VGA / HDMI Cable
+
 
 
 PC Running Slow

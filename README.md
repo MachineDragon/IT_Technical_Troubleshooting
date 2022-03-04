@@ -163,7 +163,7 @@ Scroll to the ones that you belong to, right click on them, and click map networ
 
 Accessing A Personal Drive
 -----------------------------------------------------------------------------------------------
-File explorer > This PC > Windows (C:) > Users > right click hajjmi > Create shortcut
+File explorer > This PC > Windows (C:) > Users > right click username > Create shortcut
 
  
  

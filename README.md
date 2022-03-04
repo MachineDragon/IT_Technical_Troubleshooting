@@ -150,9 +150,13 @@ Every user that logs in needs to do this
 Mapping a Network Drive
 -----------------------------------------------------------------------------------------------
 Go to the magnifying glass on the bottom left corner of your desktop
-where it says "Type here to search", and 
+
+where it says "Type here to search"
+
 type in \\sharedfoldername and hit enter
+
 All of the Shared Folders will appear in alphabetical order
+
 Scroll to the ones that you belong to, right click on them, and click map network drive
 
 

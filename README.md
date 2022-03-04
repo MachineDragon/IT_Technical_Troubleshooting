@@ -28,10 +28,14 @@ Uninstall and Reinstall the Software
 
 PC Running Slow
 --------------------------------------------------------------------------------
-Run Windows Updates or techs replace pc with new one
+Run Windows Updates 
 
                        OR
 Run disk cleanup
+
+                       OR
+
+techs replace pc with new one
 
 
 BSOD (Blue Screen of Death)  -->   :( Your PC Ran into a problem and needs to restart

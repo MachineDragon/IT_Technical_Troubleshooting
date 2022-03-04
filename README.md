@@ -7,7 +7,7 @@ Restart PC
                              
                              OR
 
-Disable then Re-enabled ethernet adapter in device manager
+Disable then Re-enabled Wifi adapter in device manager
  
                              OR
 

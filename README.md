@@ -33,7 +33,8 @@ Web Browser Issues
 Clear Cache and Cookies
 
 In Chrome
-    At the top right, click More More.
+    At the top right, click ![image](https://user-images.githubusercontent.com/58194115/156818251-bab29b2c-ed1b-48cc-a6f6-34987c39d68f.png)
+
     
     Click More tools and then Clear browsing data.
     

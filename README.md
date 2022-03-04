@@ -218,7 +218,9 @@ Software
 -------------------------------------------------------------------------------------
 
 Greenshot - for screenshotting
+
 Microsoft Teams - for communicating
+
 Dropbox - for sharing files
 
 

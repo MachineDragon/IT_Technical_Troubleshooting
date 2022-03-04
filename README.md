@@ -52,7 +52,7 @@ In Chrome
   Website Shortcut on Desktop
   --------------------------------------------------------------------------------
   
-  In Chrome 
+  In Chrome, go to the website of your choosing
   
  At the top right, click the 3 dots
     ![image](https://user-images.githubusercontent.com/58194115/156818251-bab29b2c-ed1b-48cc-a6f6-34987c39d68f.png)

@@ -29,6 +29,8 @@ Uninstall and Reinstall the Software
 PC Running Slow
 --------------------------------------------------------------------------------
 Run Windows Updates or techs replace pc with new one
+
+                       OR
 Run disk cleanup
 
 

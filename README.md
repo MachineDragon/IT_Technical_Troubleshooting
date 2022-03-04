@@ -187,8 +187,11 @@ select where you want sound to come out
 Setting default apps
 ----------------------------------------------------------------------------------------------
 On the bottom left where it says type here to search 
-type default apps, 
-then scroll down to web browser, 
-click it and then choose edge or chrome. 
+type "default apps"
+
+then scroll down to web browser,
+
+click it and then choose edge or chrome
+
 Once that is done, close out that window and you’re good
  

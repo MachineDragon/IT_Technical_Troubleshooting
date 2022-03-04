@@ -64,7 +64,9 @@ PC Device Name
 --------------------------------------------------------------------------------------
 
 On the bottom left of your screen where it says "type here to search"
-Type about your pc
+
+Type "about your pc"
+
 The name of the pc should be listed next to Device name
 
 

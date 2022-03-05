@@ -181,8 +181,6 @@ To remove a printer and driver from your computer is a two-step process. First, 
 
 1. Remove printer using Settings
 
-To remove a printer from Windows 10, use these steps:
-
 Open Settings on Windows 10.
 
 Click on Devices.

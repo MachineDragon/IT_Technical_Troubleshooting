@@ -135,45 +135,47 @@ Command Prompt ---->   ipconfig/all   ---->     IPv4
  
  
  
- Printer
+ Connecting a Printer
  -------------------------------------------------------------------------------------------
- *Connecting Printers
-
 Connect to printer by i.p. address
-The IP address should be on the printers lcd screen,  
+The IP address should be on the printers lcd screen
 
-On the bottom left of your screen where it says "Type here to search" type printers & scanners 
+On the bottom left of your screen where it says "Type here to search" type printers & scanners,
 
-click add a printer or scanner
+click add a printer or scanner,
 
-printer on network should show up automatically 
-             or manual
-The printer that I want isn't listed
-Add a printer using a TCP/IP address or hostname
-Type IP address then click next
+printer on network should show up automatically. 
+             if it does not show up the click, 
+The printer that I want isn't listed,
+Add a printer using a TCP/IP address or hostname,
+Type IP address then click next,
  
  
-               ALSO
+              
  
  
-*Setting Default Printer:
+Setting Default Printer
+----------------------------------------------------------------------------------------------
 Go to the bottom left where it says type here to search and type in control panel, click it open
 Go to view devices and printers
 Right click the printer you want and set as default
 Every user that logs in needs to do this
  
-                ALSO
+      
  
+ Printing Issues
+ -----------------------------------------------------------------------------------------
  
- *Printing Wierd? ----> Remove and Re-Install most up to date printer driver 
+ Printing Wierd? ----> Remove and Re-Install most up to date printer driver 
  ex.) Re-added printer with most up-to-date driver from HP
                      
                      Or 
                      
- Restart the printer
+             Restart the printer
  
  
-                ALSO
+ Printer Jamming
+ ---------------------------------------------------------------------------------------
 *Printer Jam Issue:
  Tab for setting paper size in tray 2 was off.  
  Set back to 8.5x11, restarted printer, working fine now.

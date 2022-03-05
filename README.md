@@ -153,7 +153,7 @@ Add a printer using a TCP/IP address or hostname
 Type IP address then click next
  
  
- 
+               ALSO
  
  
 *Setting Default Printer:
@@ -162,7 +162,7 @@ Go to view devices and printers
 Right click the printer you want and set as default
 Every user that logs in needs to do this
  
- 
+                ALSO
  
  
  *Printing Wierd? ----> Remove and Re-Install most up to date printer driver 
@@ -173,7 +173,7 @@ Every user that logs in needs to do this
  Restart the printer
  
  
- 
+                ALSO
 *Printer Jam Issue:
  Tab for setting paper size in tray 2 was off.  
  Set back to 8.5x11, restarted printer, working fine now.

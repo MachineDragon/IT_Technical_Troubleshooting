@@ -192,6 +192,9 @@ Under the “Printers & scanners” section, select the printer that you want to
 
 Click the Remove device button.
 
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/58194115/156863107-e5a99661-594b-45f1-b0a3-229c434ee297.png">
+
+
 
 Click the Yes button.
 

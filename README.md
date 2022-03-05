@@ -151,7 +151,17 @@ Add a printer using a TCP/IP address or hostname,
 Type IP address then click next,
  
  
-              
+ 
+ 
+ Printing Preferences
+ --------------------------------------------------------------------------------
+ 
+ Search Printers and Scanners
+ 
+ Select your printer
+ 
+ Select Printing Preferences 
+ 
  
  
 Setting Default Printer

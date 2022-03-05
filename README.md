@@ -63,7 +63,7 @@ Click Create Shortcut
 
 
 No DP Signal
------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 Make sure PC is powered on and make sure vga/hdmi cable is connected
 
                            OR
@@ -74,7 +74,7 @@ Make sure PC is powered on and make sure vga/hdmi cable is connected
 
 
 PC Running Slow
---------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 Run Windows Updates 
 
                        OR
@@ -86,7 +86,7 @@ techs replace pc with new one
 
 
 BSOD (Blue Screen of Death)  -->   :( Your PC Ran into a problem and needs to restart
---------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 Did they recently install something new? --->   Settings  -->   Apps  --->  Apps & features ---> Uninstall the app
 
                                                OR
@@ -108,7 +108,7 @@ Disconnect all USB Attatched Devices
 
 
 PC Device Name
---------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 On the bottom left of your screen where it says "type here to search"
 
@@ -120,7 +120,7 @@ The name of the pc should be listed next to Device name
 
 
 IP Address
-------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 Command Prompt ---->   ipconfig/all   ---->     IPv4
 
                       or
@@ -136,7 +136,7 @@ Command Prompt ---->   ipconfig/all   ---->     IPv4
  
  
  Connecting a Printer
- -------------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------
 Connect to printer by i.p. address
 The IP address should be on the printers lcd screen
 
@@ -155,7 +155,7 @@ Type IP address then click next,
  
  
 Setting Default Printer
-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 Go to the bottom left where it says type here to search and type in control panel, click it open
 Go to view devices and printers
 Right click the printer you want and set as default
@@ -164,7 +164,7 @@ Every user that logs in needs to do this
       
  
  Printing Issues
- -----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------
  
  Printing Wierd? ----> Remove and Re-Install most up to date printer driver 
  ex.) Re-added printer with most up-to-date driver from HP
@@ -174,8 +174,58 @@ Every user that logs in needs to do this
              Restart the printer
  
  
+ Removing Printer Driver
+ ---------------------------------------------------------------------------------
+ 
+To remove a printer and driver from your computer is a two-step process. First, you need to remove the printer from Windows, and then you have to delete the driver files using the Printer Management app 
+
+1. Remove printer using Settings
+To remove a printer from Windows 10, use these steps:
+
+Open Settings on Windows 10.
+
+Click on Devices.
+
+Click on Printers & scanners.
+
+Under the “Printers & scanners” section, select the printer that you want to remove.
+
+Click the Remove device button.
+
+
+Click the Yes button.
+
+Once you complete the steps, you can delete the driver from your computer. 
+
+2. Delete printer driver using Print Management
+To delete a printer driver, use these steps:
+
+Open Start.
+
+Search and open Control Panel 
+
+Click on System and Security
+
+Click on Administrative Tools
+
+Double-click the Print Management option
+
+Expand the Custom Filters branch
+
+Click on All Drivers from the left navigation pane
+
+Right-click the printer driver on the right side, and select the Delete option
+
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/58194115/156862988-11a209e6-e46d-4983-96c4-70a3778467a6.png">
+
+Click the Yes button.
+
+After you complete the steps, the driver will uninstall from the computer. 
+ 
+ 
+ 
  Printer Jamming
- ---------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------
 *Printer Jam Issue:
  Tab for setting paper size in tray 2 was off.  
  Set back to 8.5x11, restarted printer, working fine now.
@@ -186,7 +236,7 @@ Every user that logs in needs to do this
  
  
  Virus Infected Computer
- --------------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------
  
  Move Infected Hard Drive to a second computer that has virus protection software --> scan the hard drive and remove
  viruses  -->   Extract Data that needs to be recovered
@@ -196,7 +246,7 @@ Every user that logs in needs to do this
  
  
 Mapping a Network Drive
------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 Go to the magnifying glass on the bottom left corner of your desktop
 
 where it says "Type here to search"
@@ -210,7 +260,7 @@ Scroll to the ones that you belong to, right click on them, and click map networ
 
 
 Accessing A Personal Drive
------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 File explorer > This PC > Windows (C:) > Users > right click username > Create shortcut
 
  
@@ -218,7 +268,7 @@ File explorer > This PC > Windows (C:) > Users > right click username > Create s
  
  
 Audio Issues
-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 On the bottom right click on the sound icon
 select where you want sound to come out
 
@@ -234,10 +284,8 @@ select where you want sound to come out
  
  
  
- 
- 
 Setting default apps
-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 On the bottom left where it says type here to search 
 type "default apps"
 
@@ -251,20 +299,8 @@ Once that is done, close out that window and you’re good
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Software
--------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 Greenshot - for screenshotting
 

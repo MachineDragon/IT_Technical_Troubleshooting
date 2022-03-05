@@ -33,7 +33,8 @@ Web Browser Issues
 *Clear Cache and Cookies
 
     In chrome
-    At the top right, click the 3 dots![image](https://user-images.githubusercontent.com/58194115/156818251-bab29b2c-ed1b-48cc-a6f6-34987c39d68f.png)
+    At the top right, click the 3 dots <img width="28" alt="image" src="https://user-images.githubusercontent.com/58194115/156884447-6876d133-8d60-4054-8780-df9c24845786.png">
+
 
     Click More tools and then Clear browsing data
     

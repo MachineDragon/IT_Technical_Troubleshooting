@@ -180,7 +180,7 @@ Every user that logs in needs to do this
                      
                      Or 
                      
-             Restart the printer
+ Restart the printer and leave off for 20 seconds
  
  
  Removing Printer Driver

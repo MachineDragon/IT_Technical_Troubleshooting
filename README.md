@@ -234,6 +234,21 @@ Click the Yes button.
 After you complete the steps, the driver will uninstall from the computer. 
  
  
+ Updating Printer Driver
+ ------------------------------------------
+ Search Device Manager
+ 
+ Under printers
+ 
+ Right click your printer
+ 
+ Update Driver
+ 
+ Search Automatically
+ 
+ Or
+ 
+ Download it from the printer webste and update manualy
  
  Printer Jamming
  ---------------------------------------------------------------------------------

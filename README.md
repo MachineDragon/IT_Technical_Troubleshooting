@@ -246,7 +246,7 @@ After you complete the steps, the driver will uninstall from the computer.
  
  Search Automatically
  
- Or
+         Or
  
  Download it from the printer webste and update manualy
  

@@ -49,7 +49,9 @@ In chrome
   Font Too Small
   ------------------------------------------------------------------------------
   
-  Hold the ctrl key + <img width="316" alt="image" src="https://user-images.githubusercontent.com/58194115/159736110-ff3a4214-8a9c-4dd0-b94a-fc46eb446425.png">
+  Hold the ctrl key + Move mouse wheel
+  ![image](https://user-images.githubusercontent.com/58194115/159736358-418e3fea-d0bf-4222-a649-51d5ba2707d4.png)
+
 
     
   Website Shortcut on Desktop

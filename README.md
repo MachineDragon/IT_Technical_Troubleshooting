@@ -46,7 +46,11 @@ In chrome
     
     
     
-    
+  Font Too Small
+  ------------------------------------------------------------------------------
+  
+  Hold the ctrl key + <img width="316" alt="image" src="https://user-images.githubusercontent.com/58194115/159736110-ff3a4214-8a9c-4dd0-b94a-fc46eb446425.png">
+
     
   Website Shortcut on Desktop
   --------------------------------------------------------------------------------

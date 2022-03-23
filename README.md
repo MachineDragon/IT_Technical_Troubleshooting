@@ -174,6 +174,9 @@ Every user that logs in needs to do this
  
  Printing Issues
  ---------------------------------------------------------------------------------
+ Delete all print jobs in the queue
+ 
+                     Or
  
  Printing Wierd? ----> Remove and Re-Install most up to date printer driver 
  ex.) Re-added printer with most up-to-date driver from HP

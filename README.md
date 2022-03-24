@@ -1,4 +1,4 @@
-                                  RESTARTING COMPUTER / UNPLUG POWER CORD AND RE-PLUGIN OR SWITCHING WEB BROWSERS IS THE GREATEST FIX
+RESTARTING COMPUTER / UNPLUG POWER CORD AND RE-PLUGIN OR SWITCHING WEB BROWSERS IS THE GREATEST FIX
 
 
 Wifi Issues
@@ -332,7 +332,14 @@ Once that is done, close out that window and you’re good
 
 
 
+Opeining File Types with Different Applications
+-------------------------------------------------------------------------------
+On the bottom left where it says type here to search 
+type "default apps"
 
+then scroll down to "Choose default apps by file type"
+
+Scroll down to the file type and you can change the default app it opens with
 
 Software
 ----------------------------------------------------------------------------------

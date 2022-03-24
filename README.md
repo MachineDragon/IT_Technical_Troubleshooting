@@ -332,7 +332,7 @@ Once that is done, close out that window and you’re good
 
 
 
-Opeining File Types with Different Applications
+Setting default apps to open with specific file types
 -------------------------------------------------------------------------------
 On the bottom left where it says type here to search 
 type "default apps"

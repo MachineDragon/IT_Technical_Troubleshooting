@@ -26,6 +26,12 @@ Uninstall and Reinstall the Software
 
 
 
+Applications wont Open
+-----------------------------------------------------------------------------------
+PC needs to be replaced by technician
+
+
+
 
 
 Web Browser Issues

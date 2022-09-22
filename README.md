@@ -352,9 +352,16 @@ Software
 
 Greenshot - for screenshotting
 
-Microsoft Teams - for communicating
+Microsoft Teams / Zoom - for communicating
 
-Dropbox - for sharing files
+
+Document Sharing
+* Dropbox www.dropbox.com
+* Google Drive drive.google.com
+* Microsoft OneDrive drive.google.com
+
+Python - Pycharm
+Java - Intellij
 
 
 

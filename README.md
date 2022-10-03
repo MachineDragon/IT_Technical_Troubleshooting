@@ -25,6 +25,18 @@ Software Issues
 Uninstall and Reinstall the Software
 
 
+PC Crashing/Freezing
+----------------------------------------------------------------------------------
+Reinstall Windows
+  
+  or
+
+Replace PC
+
+  or
+  
+Download Windows Update
+
 
 Applications wont Open
 -----------------------------------------------------------------------------------

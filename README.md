@@ -30,16 +30,16 @@ PC Crashing/Freezing
 Reinstall Windows
   
   or
-
-Replace PC
-
-  or
   
 Download Windows Update
 
   or
   
 Update System Bios
+
+  or
+
+Replace PC
 
 
 Applications wont Open

@@ -37,6 +37,10 @@ Replace PC
   
 Download Windows Update
 
+  or
+  
+Update System Bios
+
 
 Applications wont Open
 -----------------------------------------------------------------------------------

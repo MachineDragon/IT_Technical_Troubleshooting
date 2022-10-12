@@ -39,6 +39,14 @@ Update System Bios
 
   or
 
+Replace SSD
+
+  or
+  
+Replace Motherboard
+ 
+  or  
+
 Replace PC
 
 
